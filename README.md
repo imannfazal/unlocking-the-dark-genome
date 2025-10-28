@@ -28,7 +28,7 @@ By adapting **language models** to biological data, we can build systems that in
 ### Author
 **Iman Fazal**  
 Independent Research | 2025  
-[Email](imannfazal@gmail.com)
+[Email](mailto:imannfazal@gmail.com)
 
 ---
 
